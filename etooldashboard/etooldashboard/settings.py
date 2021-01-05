@@ -120,7 +120,8 @@ USE_L10N = True
 
 USE_TZ = True
 
-LOGOUT_REDIRECT_URL = 'login/'
+LOGIN_REDIRECT_URL = "home"   # Route defined in app/urls.py
+LOGOUT_REDIRECT_URL = "home"  # Route defined in app/urls.py
 
 
 # Static files (CSS, JavaScript, Images)
