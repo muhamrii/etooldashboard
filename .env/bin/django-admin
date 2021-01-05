@@ -1,4 +1,4 @@
-#!/home/etool/eanasep/muhamrii/dashboard/etooldashboard/.env/bin/python
+#!/home/etool/eanasep/muhamrii/dashboard/etooldashboard/.env/bin/python3.6
 # -*- coding: utf-8 -*-
 import re
 import sys
